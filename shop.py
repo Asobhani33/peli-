@@ -13,3 +13,4 @@ def open_shop():
     else:
         print("et valitse mitään")
         return None
+#commment2
